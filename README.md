@@ -1,6 +1,6 @@
 ### 
 Антонников дз №3
-##
+###
 Часть 1
 #
 Ссылка на колаб таск 1
@@ -10,3 +10,11 @@ https://colab.research.google.com/drive/1ex1PDAvF7W_NW3Hxg6Gf2UZ8RorhvBmX#scroll
 Cсылка на отчет fastq и multiqc
 #
 https://github.com/greggasd/hse21_hw3/blob/main/multiqc_report.html
+
+###
+Часть 2
+#
+Ссылка на колаб таск 2
+#
+https://colab.research.google.com/drive/1Rp_QRX9ZWXmF62DhQUSu4tfBAC7TZbm1#scrollTo=6UbUWiVLKG-n
+
