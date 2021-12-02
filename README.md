@@ -34,9 +34,8 @@ https://colab.research.google.com/drive/1Rp_QRX9ZWXmF62DhQUSu4tfBAC7TZbm1#scroll
 ![Image alt](https://github.com/greggasd/hse21_hw3/blob/main/puc/ma%20graf.png)
 # Три самых топовых гена 
 ![Image alt](https://github.com/greggasd/hse21_hw3/blob/main/puc/i_gen1.png)
-![Image alt](https://github.com/greggasd/hse21_hw3/blob/main/puc/i_gen2.png)
-![Image alt](https://github.com/greggasd/hse21_hw3/blob/main/puc/i_gen3.png)
-
-
 #
+![Image alt](https://github.com/greggasd/hse21_hw3/blob/main/puc/i_gen2.png)
+#
+![Image alt](https://github.com/greggasd/hse21_hw3/blob/main/puc/i_gen3.png)
 
