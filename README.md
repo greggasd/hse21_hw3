@@ -11,7 +11,11 @@ Cсылка на отчет fastq и multiqc
 #
 https://github.com/greggasd/hse21_hw3/blob/main/multiqc_report.html
 
-![Image alt](https://github.com/greggasd/hse21_hw3/blob/main/puc/all%20counts.pxg)
+![Image alt](https://github.com/greggasd/hse21_hw3/blob/main/puc/mult1.png)
+![Image alt](https://github.com/greggasd/hse21_hw3/blob/main/puc/mult2.png)
+![Image alt](https://github.com/greggasd/hse21_hw3/blob/main/puc/mult3.png)
+![Image alt](https://github.com/greggasd/hse21_hw3/blob/main/puc/mult4.png)
+![Image alt](https://github.com/greggasd/hse21_hw3/blob/main/puc/mult5.png)
 
 ###
 Часть 2
