@@ -12,7 +12,7 @@
 ![Image alt](https://github.com/greggasd/hse21_hw3/blob/main/puc/mult5.png)
 
 # Итог рассчетов кол-ва уникальных картированных чтение
-![Image alt](https://github.com/greggasd/hse21_hw3/blob/main/puc/Кол-во%чтений.png)
+![Image alt](https://github.com/greggasd/hse21_hw3/blob/main/puc/Кол-во%20чтений.png)
 # Ввыводим статистику и считаем общее кол-во чтений, которые соответсвуют хотя бы одному гену
 
 ![Image alt](https://github.com/greggasd/hse21_hw3/blob/main/puc/counts%201.png)
