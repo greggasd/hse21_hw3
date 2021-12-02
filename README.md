@@ -15,13 +15,13 @@
 ![Image alt](https://github.com/greggasd/hse21_hw3/blob/main/puc/Кол-во%чтений.png)
 # Ввыводим статистику и считаем общее кол-во чтений, которые соответсвуют хотя бы одному гену
 
-![Image alt](https://github.com/greggasd/hse21_hw3/blob/main/puc/counts%1.png)
-![Image alt](https://github.com/greggasd/hse21_hw3/blob/main/puc/counts%2.png)
-![Image alt](https://github.com/greggasd/hse21_hw3/blob/main/puc/total%gen.png)
+![Image alt](https://github.com/greggasd/hse21_hw3/blob/main/puc/counts%201.png)
+![Image alt](https://github.com/greggasd/hse21_hw3/blob/main/puc/counts%202.png)
+![Image alt](https://github.com/greggasd/hse21_hw3/blob/main/puc/total%20gen.png)
 
 # Вид итогового файла All count
 
-![Image alt](https://github.com/greggasd/hse21_hw3/blob/main/puc/all%counts.png)
+![Image alt](https://github.com/greggasd/hse21_hw3/blob/main/puc/all%20counts.png)
 
 ###
 Часть 2
